@@ -40,6 +40,3 @@ The primary goal of this project is to apply and experiment with different deep 
 - **imbalanced-learn**: `pip install imbalanced-learn` (for SMOTE and Borderline SMOTE)
 - **numpy**, **pandas**, **matplotlib**
 
-To install all dependencies at once, run:
-```bash
-pip install -r requirements.txt
